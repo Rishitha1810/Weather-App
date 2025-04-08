@@ -8,3 +8,4 @@ The background image updates according to the current weather (e.g., cloudy, sun
 
 This application is built using React,HTML, CSS, JavaScript  and API: Weather API. The code is well- structured, readable, and follows best practices for a maintainable and scalable codebase.
 
+
